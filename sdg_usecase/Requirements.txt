@@ -1,7 +1,0 @@
-streamlit>=1.35.0
-requests>=2.31.0
-python-dotenv>=1.0.0
-
-# Google Drive sync (Admin panel) — install these to use the Drive import:
-# pip install google-api-python-client google-auth
-# pip install pdfminer.six python-pptx python-docx openpyxl
